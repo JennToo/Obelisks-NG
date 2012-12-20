@@ -1,0 +1,4 @@
+name: ObelisksNG
+main: nl.nitori.ObelisksNG.Obelisks
+version: 1.0
+depend: [Vault]
